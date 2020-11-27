@@ -1,0 +1,1 @@
+The second part of Feature2 shall take care of homepage
